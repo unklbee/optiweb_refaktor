@@ -1,3 +1,4 @@
+
 # apps/services/managers.py - Custom managers
 class ServiceManager(models.Manager):
     """Custom manager for Service model"""
